@@ -71,7 +71,7 @@ There are 3 main groups of Clients & Partners of ODD:
 <ul>
 <li><b>Data Catalogs</b> - DataHub, Amundsen, Collibra, Alation, etc.) </li>
 <li><b>Data Assets</b> - sources/consumers (ETL Tools, warehouses, BI, feature stores, ML pipelines, data quality tools, etc.)</li> 
-<li><b>End Users</b> (enterprises: their data teams, engineers, product maangers, analysts, etc.)</li> 
+<li><b>End Users</b> (enterprises: their data teams, engineers, product managers, analysts, etc.)</li> 
 </ul>
 
 Each of the groups can benefit greatly from engagement with and early adoption of ODD.
